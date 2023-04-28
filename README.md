@@ -1,2 +1,5 @@
-# Cloud-Resume-Project-Frontend
-Front end code for my cloud resume project
+# Cloud Resume Project Frontend
+Frontend code for my cloud resume project
+
+Link to website:
+https://joconr.com/
